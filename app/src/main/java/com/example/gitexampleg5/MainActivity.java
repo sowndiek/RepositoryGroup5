@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //Those are some of the first changes
 
         //More changes
+
+        //More code
     }
 }
